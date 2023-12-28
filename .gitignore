@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+
+# WSL-windows transfer files
+desktop.ini
 
 # C extensions
 *.so
